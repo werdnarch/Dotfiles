@@ -1,0 +1,6 @@
+2025/11/08-15:05:33.915 5 Reusing MANIFEST /home/werdna/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/08-15:05:33.938 5 Recovering log #4
+2025/11/08-15:05:33.940 5 Reusing old log /home/werdna/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 
+2025/11/08-16:29:54.265 7 Level-0 table #8: started
+2025/11/08-16:29:54.277 7 Level-0 table #8: 39197 bytes OK
+2025/11/08-16:29:54.290 7 Delete type=0 #4

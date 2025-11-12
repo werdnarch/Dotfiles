@@ -1,0 +1,44 @@
+sw_volume: 30
+audio_device_state:1:PipeWire Sound Server
+audio_device_state:1:Visualizer
+state: pause
+current: 13
+time: 1.697
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Songs/No More What Ifs.mp3
+1:Playlist/for/Ella Woolsey - blue angels.mp3
+2:Playlist/for/Ella Woolsey - bed u made.mp3
+3:Playlist/for/Ella Woolsey - blue angels.mp3
+4:Playlist/for/Bee Blackwell - BLUE.mp3
+5:Playlist/for/Babyteeth - Doll Hearts.mp3
+6:Playlist/for/Ella Woolsey - damn navy.mp3
+7:Playlist/for/Chrissy - Devil On My Back.mp3
+8:Playlist/for/Ella Woolsey - do good for me.mp3
+9:Playlist/for/Big Thief - Simulation Swarm.mp3
+10:Playlist/for/Portishead - Biscuit.mp3
+11:Playlist/for/Willa Mae - Heaven I Might Find.mp3
+12:Playlist/for/Nectarine Girl - how i've always been.mp3
+13:Playlist/for/Abby Powledge - i still check your playlists.mp3
+14:Playlist/for/Ella Woolsey - if i knew.mp3
+15:Playlist/for/Nectarine Girl - I'll Do Whatever You Want Me To.mp3
+16:Playlist/for/Porch Light - Oxygen.mp3
+17:Playlist/for/Daffo - Collector.mp3
+18:Playlist/for/Daffo, Searows - Poor Madeline (feat. Searows) - Alt. Version.mp3
+19:Playlist/for/Mila Degray - Rubio.mp3
+20:Playlist/for/Ella Woolsey - say it back.mp3
+21:Playlist/for/Ella Woolsey - Where You Left Me.mp3
+22:Playlist/for/Ella Woolsey - I'm So Good.mp3
+23:Playlist/for/Dogs on Shady Lane - 18.mp3
+24:Playlist/for/Dogs on Shady Lane - Basement.mp3
+25:Playlist/for/Bee Blackwell - The Same.mp3
+26:Playlist/for/Leith Ross - Monogamy.mp3
+27:Playlist/for/Susannah Joffe, Esha Tewari - You'd Kill Me If You Could.mp3
+playlist_end

@@ -1,0 +1,6 @@
+2025/11/08-16:33:03.786 11c68 Creating DB /home/werdna/.config/BraveSoftware/Brave-Browser/Default/WebStorage/7/IndexedDB/indexeddb.leveldb since it was missing.
+2025/11/08-16:33:03.796 11c68 Reusing MANIFEST /home/werdna/.config/BraveSoftware/Brave-Browser/Default/WebStorage/7/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/11/08-17:08:10.479 11c5b Level-0 table #5: started
+2025/11/08-17:08:10.485 11c5b Level-0 table #5: 2970 bytes OK
+2025/11/08-17:08:10.497 11c5b Delete type=0 #3
+2025/11/08-17:08:10.498 11c5b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
